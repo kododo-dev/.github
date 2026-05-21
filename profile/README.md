@@ -7,11 +7,6 @@
 
 <br>
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
 ### ⏱️ RunWay
 
 Persistent background job queue. Priority scheduling, automatic retries, timeout support, outbox pattern, recurring jobs, and a built-in web dashboard.
@@ -24,9 +19,7 @@ dotnet add package Kododo.RunWay
 
 [![NuGet](https://img.shields.io/nuget/v/Kododo.RunWay)](https://www.nuget.org/packages/Kododo.RunWay) &nbsp; [Demo](https://kododo.dev/runway/demo) &nbsp; [GitHub](https://github.com/kododo-dev/RunWay)
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🎚️ ConfigWay
 
@@ -40,9 +33,7 @@ dotnet add package Kododo.ConfigWay
 
 [![NuGet](https://img.shields.io/nuget/v/Kododo.ConfigWay)](https://www.nuget.org/packages/Kododo.ConfigWay) &nbsp; [Demo](https://kododo.dev/configway/demo) &nbsp; [GitHub](https://github.com/kododo-dev/ConfigWay)
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🧭 Reiho
 
@@ -55,11 +46,6 @@ dotnet add package Kododo.Reiho.AspNetCore
 ```
 
 [![NuGet](https://img.shields.io/nuget/v/Kododo.Reiho.AspNetCore)](https://www.nuget.org/packages/Kododo.Reiho.AspNetCore) &nbsp; [GitHub](https://github.com/kododo-dev/Reiho)
-
-</td>
-
-</tr>
-</table>
 
 ---
 
